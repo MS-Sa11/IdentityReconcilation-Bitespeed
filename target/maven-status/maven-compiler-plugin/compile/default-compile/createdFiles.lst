@@ -1,0 +1,7 @@
+com\bitespeed\identityreconcilation\repository\ContactRepository.class
+com\bitespeed\identityreconcilation\service\ContactService.class
+com\bitespeed\identityreconcilation\controller\ContactController.class
+com\bitespeed\identityreconcilation\IdentityreconcilationApplication.class
+com\bitespeed\identityreconcilation\controller\IdentifyRequest.class
+com\bitespeed\identityreconcilation\entity\LinkPrecedence.class
+com\bitespeed\identityreconcilation\entity\Contact.class
